@@ -1,0 +1,29 @@
+body {
+    background-image: url("https://th.bing.com/th/id/R.e727f1862c5f132ace1988807c2fdbc9?rik=JZLptxwzFam%2bBg&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbAk3o3V.jpg&ehk=6ApP0PkMvx8fRHFFwpp4NLihJdyXo33Gh3nxJlvAVa0%3d&risl=&pid=ImgRaw&r=0");
+}
+
+.heading {
+    font-size: 25px;
+    margin: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.note {
+    font-size: 15px;
+    color:darkgreen
+}
+
+.footer {
+    position: fixed;
+    color: white;
+    text-align: center;
+    width: 100%;
+    bottom: 0;
+    line-height: 30px;
+    background-color: green;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
